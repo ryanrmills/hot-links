@@ -14,3 +14,8 @@ A simple coding program with a graphical interface.
 [Archived Link] (https://web.archive.org/web/20210607193108/https://www.vulkan.org/tools)
 
 A website containing GPU resources for Vulkan.
+
+## [W3Schools](https://www.w3schools.com/)
+[Archived Link] (https://web.archive.org/web/20010602154931/http://www.w3schools.com/)
+
+A website that teaches about different development technologies.
